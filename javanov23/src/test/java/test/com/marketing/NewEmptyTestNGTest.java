@@ -31,7 +31,7 @@ public class NewEmptyTestNGTest {
 
     @AfterClass
     public static void tearDownClass() throws Exception {
-          System.out.println("try 2")
+          System.out.println("try 2");
     }
 
     @BeforeMethod
