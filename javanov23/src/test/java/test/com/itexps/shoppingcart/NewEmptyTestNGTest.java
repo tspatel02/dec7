@@ -31,10 +31,12 @@ public class NewEmptyTestNGTest {
 
     @AfterClass
     public static void tearDownClass() throws Exception {
+        System.out.println("try 1");
     }
 
     @BeforeMethod
     public void setUpMethod() throws Exception {
+        
     }
 
     @AfterMethod
