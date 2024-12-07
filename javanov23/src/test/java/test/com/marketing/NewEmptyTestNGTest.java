@@ -35,6 +35,7 @@ public class NewEmptyTestNGTest {
 
     @BeforeMethod
     public void setUpMethod() throws Exception {
+        System.out.println("tom");
     }
 
     @AfterMethod
